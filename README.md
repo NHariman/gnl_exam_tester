@@ -23,7 +23,7 @@ This will give you an infinite while loop and you can check leaks using
 ```
 leaks a.out
 ```
-ON MAC (don't know how on linux sorry!!)
+WARNING!! LEAKS IS ONLY MAC (don't know how on linux sorry!!)
 
 To do your own basic tests:
 ```
