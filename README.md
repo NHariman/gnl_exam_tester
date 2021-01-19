@@ -1,8 +1,12 @@
 # gnl_exam_tester
 A simple tester for the exam version of get_next_line
 ## How it works
-Copy your `get_next_line.c` into this folder
+Clone this repository
+
+Copy your `get_next_line.c` into the repo
+
 Execute `bash test.sh` in the folder.
+
 The program will compile your gnl and compare it to an example gnl (mine, nhariman).
 If there are differences found between outputs you will find a `differences.txt` file that you can examine (the diff will also be printed in the terminal)
 (WARNING, I passed the exam but passing this test will probably not guarantee you will too, leaks and stuff.)
